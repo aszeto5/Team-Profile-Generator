@@ -9,4 +9,7 @@ A Node.js command-line application that takes in information about employees on 
 
 # Application Preview
 * Application Result Example:
+![image](https://user-images.githubusercontent.com/100250064/184060263-57c77996-1017-4255-95fd-e212fda0cb42.png)
+
 * Video Walkthrough: 
+[Untitled_ Aug 10, 2022 8_25 PM.webm](https://user-images.githubusercontent.com/100250064/184060345-5dba2670-7faa-4391-8d34-087d6a71e172.webm)
